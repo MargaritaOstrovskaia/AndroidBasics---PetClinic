@@ -1,3 +1,4 @@
+# Pet clinic
 <br>Single screen app that allows users to get information about business (Pet clinic).</br>
 
 Project designed from practice sets from Udacity Android Developers course "**Android Basics by Google Nanodegree Program**".
